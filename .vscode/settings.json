@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "menu.h": "c",
+        "search.h": "c",
+        "list.h": "c",
+        "edit.h": "c"
+    }
+}
